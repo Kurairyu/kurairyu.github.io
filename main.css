@@ -1,3 +1,7 @@
+<?xml version="1.0" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
 html {
     background-color: #e6e9e9;
     background-image: -webkit-linear-gradient(270deg,rgb(230,233,233) 0%,rgb(216,221,221) 100%);
@@ -13,15 +17,30 @@ body {
     font-size: 16px;
     line-height: 1.5em;
     color: #CF1020;
-    background-color: #87CEEB;
+    background-color: #FFFFFF;
     box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+}
+div.Sign {
+    position:absolute;
+    top: 0px;
+    left: 850px;
+    color: #FFD700;
+    
+    
+    }
+    
+    
+    
+    
+    
+    
+    
 }
 
 h1
 {
     text-align: center;
 }
-
 h1, h2, h3, h4, h5, h6 {
     color: #66023C;
     font-weight: 600;
